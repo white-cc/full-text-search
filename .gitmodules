@@ -1,0 +1,3 @@
+[submodule "contrib/CRoaring"]
+	path = contrib/CRoaring
+	url = https://github.com/RoaringBitmap/CRoaring.git
